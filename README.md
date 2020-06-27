@@ -16,7 +16,7 @@ Use the folllowing package manager in client
 ```bash
 npm install -g @angular/cli
 ```
-If require on error of devkit
+If error of devkit occurs then install following command
 ```bash
 npm install --save-dev @angular-devkit/build-angular
 ```
